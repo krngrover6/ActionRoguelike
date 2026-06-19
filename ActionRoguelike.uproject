@@ -20,6 +20,21 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "NeoStackAI",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/b4f03b65-7d8b-47f3-aeab-a23284295242",
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		},
+		{
+			"Name": "BpGeneratorUltimate",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/8d776721-5da3-44ce-b7ef-be17a023be59"
 		}
 	]
 }
